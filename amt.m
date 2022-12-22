@@ -1,6 +1,7 @@
 #!/usr/bin/env -S octave --no-window-system
 
-% GNU Octave tested, but the "env -S" feature in shebang requires at least coreutils 8.30. This part not tested. TODO
+% Tested with GNU Octave. Note the "env -S" feature in shebang requires at least
+% coreutils 8.30.
 % MATLAB seems very unhappy with this shebang. Lol.
 
 for i = 1:9
